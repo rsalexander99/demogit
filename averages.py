@@ -10,6 +10,8 @@ rms function: calculate rms.
 
 middle_average function: calculate mean, median, and rms, and then return median of those three values.
 
+random docstring test
+
 """
 
 
